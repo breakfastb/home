@@ -1,4 +1,11 @@
-﻿#main {
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+* {
+  font-family:Open Sans;
+}
+input { 
+  background:#1b1b1b;
+}
+#main {
   width:915px;
   max-width:83%;
   margin:auto;
