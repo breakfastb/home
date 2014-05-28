@@ -2,8 +2,10 @@
 * {
   font-family:Open Sans;
 }
-form { 
+input { 
   background:#1b1b1b;
+  border:none;
+  color:#cccccc;
 }
 #main {
   width:915px;
