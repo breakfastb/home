@@ -1,18 +1,12 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
-* {
-  font-family:Open Sans;
-}
-input { 
-  background:#333333;
-  border:none;
-  color:#cccccc;
-  padding:3.5px;
-}
 #main {
   width:915px;
   max-width:83%;
   margin:auto;
   margin-top:10%;
+}
+LI.rss_item {
+  list-style-type:none;
+  margin-left:-40px;
 }
 .boards {
   display:none;
